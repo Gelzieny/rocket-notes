@@ -54,7 +54,7 @@ $ git clone <https://github.com/Gelzieny/rocket-notes.git>
 $ cd rocket-notes
 
 # Instale as dependências 
-$ yarn isntall
+$ yarn install
 
 # Rodando o projeto
 $ yarn dev

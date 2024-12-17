@@ -6,6 +6,7 @@ import { Textarea } from '../../components/Textarea'
 import { NoteItem } from '../../components/NoteItem'
 
 import { Container, Form } from './styles'
+import { Link } from 'react-router-dom'
 
 export function New() {
   return (
@@ -16,7 +17,7 @@ export function New() {
         <Form>
           <head>
             <h1>Criar nota</h1>
-            <a href="#">voltar</a>
+            <Link to="/">voltar</Link>
           </head>
 
           <Input placeholder="Titulo" type="text" />
