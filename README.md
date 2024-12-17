@@ -1,4 +1,4 @@
-<h1 align="center"> 🚀 Rocket Movies 🚀 </h1>
+<h1 align="center"> 🚀 <img alt="" title="" src="https://github.com/Gelzieny/rocket-notes/blob/main/.github/img/name.png?raw=true" width="200px"> 🚀 </h1>
 
 ## 💻 Sobre o projeto
 
