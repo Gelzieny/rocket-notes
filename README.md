@@ -12,7 +12,7 @@ O projeto foi desenvolvido como parte do curso <strong>Explorer</strong>, oferec
 
 ## 🎨 Layout
 
-O layout da aplicação está disponível no [Figma](<https://www.figma.com/design/9Ehx2pf2hjML8HITJc4Ixd/RocketMovies-(Copy)?node-id=0-1&p=f&t=8asgPw5ktHnfR2lI-0>)
+O layout da aplicação está disponível no [Figma](<https://www.figma.com/design/HNTqyqkcwBuCqbTlfQD8hV/RocketNotes-(Copy)?node-id=8-438&t=d8tqPlzELC5QWkZD-0>)
 
 <p align="center" style="display: flex; align-items: flex-start; ">
   <img alt="" title="" src="https://github.com/Gelzieny/rocket-notes/blob/main/public/SignIn.png?raw=true" width="400px">
