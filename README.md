@@ -14,7 +14,7 @@ O projeto foi desenvolvido como parte do curso <strong>Explorer</strong>, oferec
 
 O layout da aplicação está disponível no [Figma](<https://www.figma.com/design/HNTqyqkcwBuCqbTlfQD8hV/RocketNotes-(Copy)?node-id=8-438&t=d8tqPlzELC5QWkZD-0>)
 
-<p align="center" style="display: flex; align-items: flex-start; ">
+<p >
   <img alt="" title="" src="https://github.com/Gelzieny/rocket-notes/blob/main/public/SignIn.png?raw=true" width="400px">
 
   <img alt="" title="" src="https://github.com/Gelzieny/rocket-notes/blob/main/public/SignUp.png?raw=true" width="400px">
