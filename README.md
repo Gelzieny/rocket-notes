@@ -15,7 +15,11 @@ O projeto foi desenvolvido como parte do curso <strong>Explorer</strong>, oferec
 O layout da aplicação está disponível no [Figma](<https://www.figma.com/design/9Ehx2pf2hjML8HITJc4Ixd/RocketMovies-(Copy)?node-id=0-1&p=f&t=8asgPw5ktHnfR2lI-0>)
 
 <p align="center" style="display: flex; align-items: flex-start; ">
-  <img alt="" title="" src="https://github.com/Gelzieny/python_e_flask/blob/main/.github/img/image.png?raw=true" width="400px">
+  <img alt="" title="" src="https://github.com/Gelzieny/rocket-notes/blob/main/public/SignIn.png?raw=true" width="400px">
+
+  <img alt="" title="" src="https://github.com/Gelzieny/rocket-notes/blob/main/public/SignUp.png?raw=true" width="400px">
+
+  <img alt="" title="" src="https://github.com/Gelzieny/rocket-notes/blob/main/public/Profile.png?raw=true" width="400px">
 
   <img alt="" title="" src="https://github.com/Gelzieny/python_e_flask/blob/main/.github/img/image1.png?raw=true" width="400px">
 </p>
