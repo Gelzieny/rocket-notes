@@ -41,7 +41,7 @@ O layout da aplicação está disponível no [Figma](<https://www.figma.com/desi
 <p align="justify">Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:</p>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,nodejs,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,nodejs,vscode,figma" />
 </a>
 
 ### 🎲 Rodando aplicação
